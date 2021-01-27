@@ -4,10 +4,10 @@ account2 = {"login": "petr", "password": "q2"}
 account3 = {"login": "olga", "password": "q3"}
 account4 = {"login": "anna", "password": "q4"}
 
-user1 = {"name": "Иван", "age": 20, "account": {"login": "ivan", "password": "q1"} }
-user2 = {"name": "Петр", "age": 25, "account": {"login": "petr", "password": "q2"} }
-user3 = {"name": "Ольга", "age": 18, "account": {"login": "olga", "password": "q3"} }
-user4 = {"name": "Анна", "age": 27, "account": {"login": "anna", "password": "q4"} }
+user1 = {"name": "Иван", "age": 20, "account1": {"login": "ivan", "password": "q1"} }
+user2 = {"name": "Петр", "age": 25, "account2": {"login": "petr", "password": "q2"} }
+user3 = {"name": "Ольга", "age": 18, "account3": {"login": "olga", "password": "q3"} }
+user4 = {"name": "Анна", "age": 27, "account4": {"login": "anna", "password": "q4"} }
 
 user_list = [{"name": "Иван", "age": 20, "account": {"login": "ivan", "password": "q1"} }, {"name": "Петр", "age": 25, "account": {"login": "petr", "password": "q2"} }, {"name": "Ольга", "age": 18, "account": {"login": "olga", "password": "q3"} }, {"name": "Анна", "age": 27, "account": {"login": "anna", "password": "q4"} } ]
 
